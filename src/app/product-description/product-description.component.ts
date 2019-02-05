@@ -19,6 +19,7 @@ export class ProductDescriptionComponent implements OnInit {
       this.albumInfo = response
     });
 
+
   }
 
 }
